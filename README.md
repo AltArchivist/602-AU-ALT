@@ -4,3 +4,5 @@ If you are reading this, congrats! You found a GitHub Repository which the owner
 <i>But in all seriousness</i>, this probably won't get much use. I will post updates occasionally.
 
 CURRENT PROJECTS: MTale [https://bit.ly/m-tale] (NAME TBD)
+
+CRITICAL NOTICE: THIS PROJECT IS UNDER CC-BY-NC-SA 4.0 LICENSE.
