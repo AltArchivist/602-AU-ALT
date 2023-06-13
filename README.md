@@ -6,3 +6,5 @@ If you are reading this, congrats! You found a GitHub Repository which the owner
 CURRENT PROJECTS: MTale [https://bit.ly/m-tale] (NAME TBD)
 
 CRITICAL NOTICE: THIS PROJECT IS UNDER CC-BY-NC-SA 4.0 LICENSE.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
