@@ -12,3 +12,7 @@ CRITICAL NOTICE: THIS PROJECT IS UNDER CC-BY-NC-SA 4.0 LICENSE.
 <i>I think that's the right license...</i>
 
 Basically don't reuse this as your own and post it somewhere.
+
+If you have issues with this, contact me on Discord at "gamerm.602" (without quotes) and I may or may not respond.
+
+<i>Cheers!</i>
